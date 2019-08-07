@@ -6,7 +6,6 @@ import {
   Container, Content, List, Spinner,
 } from 'native-base';
 import { Navigation } from 'react-native-navigation';
-
 import { TEAMPAGE_SCREEN } from 'src/navigation';
 import { View } from 'react-native';
 import { fetchTeams } from '../../redux/modules/teams';
